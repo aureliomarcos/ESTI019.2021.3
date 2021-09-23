@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style2.css" />
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+    <title>Nós Multimídia</title>
+  </head>
+  <body>
+    <div class="grid-container">
+      <header class="row">
+        <div>
+          <a class="brand" href="index.html">Nós Multimídia</a>
+        </div>
+      </header>
+      <main>
+        <div>
+            <h2>Fulando de tal</h2>
+            <p>
+              Eu fulando de tal aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafffffffffffffffffffffffffffffffffffffffffffffffffffff
+            </p>
+
+           <div>
+            <h3>Filmes | Séries | Músicas | e Video  Preferidos</h3>
+               <ul>
+                  <li>..........</li>
+                  <li>..........</li>
+                  <li>...........</li>
+                </ul>
+           </div>
+            <div>
+              <h3>Imagem que queria postar</h3>
+              <img src="./imagem/ft1.jpg"   alt="imagen-ft1">
+              <img src="./imagem/ft1.jpg"   alt="imagen-ft1">
+              <img src="./imagem/ft1.jpg"   alt="imagen-ft1">
+              <img src="./imagem/ft1.jpg"   alt="imagen-ft1">
+              <img src="./imagem/ft1.jpg"   alt="imagen-ft1">
+            </div>
+            
+        </div>
+        <div>
+          <h3>Explicação por áudio</h3>
+          <audio controls>
+           
+            <source src="./audios/Record (online-voice-recorder.com).mp3" type="audio/mpeg">
+          </audio>
+        </div>
+        <button>
+          <a href="index.html">Voltar na tela principal</a> 
+        </button>
+      </main>
+      <footer class="row center">Todos os direitos reservados</footer>
+    </div>
+  </body>
+</html>
