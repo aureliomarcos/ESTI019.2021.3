@@ -7,7 +7,7 @@
 	 
 	 body {
 	 		font-family: arial, sans-serif;
-			 background: url("https://images.pexels.com/photos/6331083/pexels-photo-6331083.jpeg?cs=srgb&dl=pexels-anete-lusina-6331083.jpg&fm=jpg");
+			 background: url("https://images.unsplash.com/photo-1604431160701-4e8b0e411f44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80");
 		  }
 
 div#interface {
@@ -159,7 +159,7 @@ section#corpo {
 article#noticia-principal h2 {
 	font-size: 13pt;
 	color: #ffffff;
-	background-color: #253f1c;
+	background-color: #1f5cac;
 	padding: 5px 0px 5px 10px;
 	margin: 10px 0px 10px 0px;
 }
