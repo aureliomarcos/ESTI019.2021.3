@@ -29,20 +29,16 @@ p1 {
 	 }
 
 a {
-	color: #606060;
-	text-decoration: none;
-}
-a:hover {
-	/* text-decoration: underline; */
-}
-
-b {
 	color: #000000;
 	text-decoration: none;
 }
-b:hover {
+a:hover {
 	text-decoration: underline;
-	cursor:pointer;
+}
+
+a1 {
+	color: #606060;
+	text-decoration: none;
 }
 
 
